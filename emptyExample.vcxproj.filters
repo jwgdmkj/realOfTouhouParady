@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Player.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Life.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelController.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="bomb.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ofxGif.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="stage2.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="stage3.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyParent.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Player.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Life.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelController.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="bomb.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="ofxGif.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="stage2.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="stage3.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyParent.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc">
+      <Filter>src</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,30 @@
+﻿  ofApp.cpp
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(201): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(206): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(211): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(216): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(389): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(402): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(408): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(414): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(441): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(451): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(464): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(475): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(488): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(498): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(515): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(528): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(537): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\of_v0.11.0_vs2017_release\examples\templates\emptyexample\ofapp.cpp(547): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  emptyExample.vcxproj -> D:\of_v0.11.0_vs2017_release\examples\templates\emptyExample\bin\emptyExample_debug.exe
+  
+  	                   2	D:\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *추가 파일  		 6018560	D:\of_v0.11.0_vs2017_release\examples\templates\emptyExample\bin\FreeImage.dll
+  
+  	                   1	D:\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *추가 파일  		 1266176	D:\of_v0.11.0_vs2017_release\examples\templates\emptyExample\bin\fmodex.dll
+  	  *추가 파일  		 1312768	D:\of_v0.11.0_vs2017_release\examples\templates\emptyExample\bin\fmodexL.dll
